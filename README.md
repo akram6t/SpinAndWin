@@ -12,4 +12,6 @@ Quiz,
 LeaderBoard,
 Profile And Etc.
 
-Apk Link - https://codeforfree.in/admin/winyou.apk
+Demo Apk Link - https://codeforfree.in/admin/winyou.apk
+
+Social Media Link -  https://instagram.com/akram6t
