@@ -12,4 +12,4 @@ Quiz,
 LeaderBoard,
 Profile And Etc.
 
-Apk Link - https://codeforfree.in/admin/winyou.apk/
+Apk Link - https://codeforfree.in/admin/winyou.apk
