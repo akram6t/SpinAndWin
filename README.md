@@ -2,13 +2,14 @@
 
 This is fully Earning App Source Code
 Features - 
-Firebase Database
-Firebase Firestore
-Firebase Auth With Google SignIn
-Spin
-Scratch
-Lucky Number
-Quiz
-LeaderBoard
+Firebase Database,
+Firebase Firestore,
+Firebase Auth With Google SignIn,
+Spin,
+Scratch,
+Lucky Number,
+Quiz,
+LeaderBoard,
+Profile
 
 Apk Link - https://codeforfree.in/admin/winyou.apk/
