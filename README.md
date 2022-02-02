@@ -10,6 +10,6 @@ Scratch,
 Lucky Number,
 Quiz,
 LeaderBoard,
-Profile
+Profile And Etc.
 
 Apk Link - https://codeforfree.in/admin/winyou.apk/
