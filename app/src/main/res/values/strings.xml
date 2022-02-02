@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WinYou</string>
+    <string name="withdraw_string">1000 coins = 1 rupees \n Minimum Redeem Coins is 25000</string>
+
+    <string name="withdraw_25">₹ 25</string>
+    <string name="withdraw_50">₹ 50</string>
+    <string name="withdraw_100">₹ 100</string>
+    <string name="withdraw_500">₹ 500</string>
+    <string name="quizcategory">quizcategory</string>
+    <string name="interstitialAds">Interstitial_Android</string>
+    <string name="bannerAds">Banner_Android</string>
+    <string name="rewardedAds">Rewarded_Android</string>
+    <string name="authdoc">This is Amazing Earning App You earn money easily spin, scratch, lucky number and quiz.</string>
+    <string name="lucky_rules">Choose a lucky number if your number is right to you earn coins else you lose and 10 coins minus in your wallet</string>
+    <string name="category_name">categoryname</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "856502786373",
+    "project_id": "spinandwinquiz",
+    "storage_bucket": "spinandwinquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856502786373:android:3efe96641135dd85ddc62c",
+        "android_client_info": {
+          "package_name": "com.spinandwin.quizme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856502786373-81if5cme4t3vrt9sth5316nic3ualo9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spinandwin.quizme",
+            "certificate_hash": "5fe4e025309a9f1c93b8d70876fe442ab7d37078"
+          }
+        },
+        {
+          "client_id": "856502786373-ujjupv72kr7ftngi4moj1s47fa55k2ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW148Ox6T06FtUYHB-B7MkpCdGnnF24Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856502786373-ujjupv72kr7ftngi4moj1s47fa55k2ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
